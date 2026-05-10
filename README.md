@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm CodderFroggo!
+Hi! I'm Karthik M Raj!
 I like control systems, scientific computing, physics sims and a weird interests for rockets 🚀
 Currently working on ASTAR and AGMARS - and yes both have something to do with rockets! :)
 
