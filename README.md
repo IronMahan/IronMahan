@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi! I'm Karthik M Raj!
-I like control systems, scientific computing, physics sims and a weird interests for rockets 🚀
-Currently working on ASTAR and AGMARS - and yes both have something to do with rockets! :)
+I like control systems, scientific computing, physics sims and a weird interest for rockets 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/karthik-m-raj-361b06348) 
