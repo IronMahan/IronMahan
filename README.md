@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I'm Karthik M Raj!
 I like control systems, scientific computing, physics sims and a weird interest for rockets 🚀
 
